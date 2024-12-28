@@ -30,7 +30,7 @@
 ---
 
 ## 2. Tiền xử lý dữ liệu
-- Dữ liệu thu thập được không sạch, cần thực hiện tiền xử lý để chuẩn hóa.
+- Dữ liệu thu thập thiếu và nhiễu , cần thực hiện tiền xử lý.
 - Tạo các feature mới và chia dữ liệu thành những bảng phù hợp.
 - Tạo các bảng liên kết với nhau (mối quan hệ nhiều - nhiều).
 - Biểu diễn các bảng và mối quan hệ giữa chúng qua Diagram để xem sự liên kết và ý nghĩa của từng bảng.
