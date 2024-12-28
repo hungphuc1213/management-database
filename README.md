@@ -6,10 +6,7 @@
 - **Website**: Dữ liệu được thu thập từ trang web **Career Việt**: [https://careerviet.vn/viec-lam/ha-noi-ho-chi-minh-da-nang-l4,8,511-vi.html](https://careerviet.vn/viec-lam/ha-noi-ho-chi-minh-da-nang-l4,8,511-vi.html)
 - **Mô tả**: Career Việt là nền tảng trực tuyến cung cấp thông tin tuyển dụng và việc làm tại Việt Nam, kết nối nhà tuyển dụng với ứng viên hiệu quả. Website hỗ trợ tìm kiếm việc làm đa dạng theo ngành nghề, vị trí địa lý, cấp bậc và mức lương, đồng thời cập nhật cơ hội mới nhất từ nhiều doanh nghiệp.
 
-### b. Công cụ thu thập dữ liệu
-- **Thư viện sử dụng**: Selenium
-
-### c. Quy trình thực hiện
+### b. Quy trình thực hiện
 1. **Phân tích cấu trúc HTML của trang web**
    - Kiểm tra các thành phần HTML chứa thông tin cần thu thập.
    - Sử dụng công cụ như Developer Tools của trình duyệt (Chrome DevTools) để tìm các CSS selector phù hợp.
